@@ -1,4 +1,4 @@
-# Overhead
+# Overcraft
 
 <img src="https://media.giphy.com/media/gf6cdSoWFHU7h8WEh3/giphy.gif" width="400">  <img src="https://media.giphy.com/media/elJopZSmWUj3l5UWQM/giphy.gif" width="400">
 
@@ -8,11 +8,11 @@ Tower defense game made with Unity!
 
 ## Playing the game
 
-You can download and play Overhead on its [itch.io page](https://chicomcastro.itch.io/overhead).
+You can download and play Overcraft on its [itch.io page](https://chicomcastro.itch.io/Overcraft).
 
 ## About
 
-Overhead was a National finalist on the Brazilian Games Symposium 2017 (SBGames) on Best Game, Best Student Game and Best Technology categories.
+Overcraft was a National finalist on the Brazilian Games Symposium 2017 (SBGames) on Best Game, Best Student Game and Best Technology categories.
 
 It was originally developed to compete CIG 2017, in which also won the first place. CIG 2017 is the Intituto Tecnologico de Aeronautica - [ITA](http://www.ita.br/) - internal game development competition.
 
